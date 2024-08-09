@@ -6,10 +6,12 @@
   <img src="https://github.com/user-attachments/assets/a216042e-93ca-4de7-9be3-2aed74afb74c" alt="Dumb Machine 2" width="45%">
 </div>
 
-
-<p>- Canvas for drawing\n
-- Explanation dialog\n
-- Explanation texts</p>
+<h2>It Contains</h2>
+<ul>
+<li>- Canvas for drawing</li>
+<li>- Explanation dialog</li>
+<li>- Explanation texts</li>
+</ul>
 
 <h2>Technologies</h2>
 <ul>
@@ -18,7 +20,7 @@
 </ul>
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20" alt="logo">
+ <img src="https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20" width="20%" alt="logo">
 </div>
 
 
