@@ -8,9 +8,9 @@
 
 <h2>It Contains</h2>
 <ul>
-<li>- Canvas for drawing</li>
-<li>- Explanation dialog</li>
-<li>- Explanation texts</li>
+<li>Canvas for drawing</li>
+<li>Explanation dialog</li>
+<li>Explanation texts</li>
 </ul>
 
 <h2>Technologies</h2>
@@ -20,7 +20,7 @@
 </ul>
 
 <div align="center">
- <img src="https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20" width="20%" alt="logo">
+ <img src="https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20" width="10%" alt="logo">
 </div>
 
 
