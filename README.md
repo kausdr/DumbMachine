@@ -5,7 +5,7 @@
 ![Dumb Machine 2](https://github.com/user-attachments/assets/a216042e-93ca-4de7-9be3-2aed74afb74c)
 
 
-p>- Canvas for drawing\n
+<p>- Canvas for drawing\n
 - Explanation dialog\n
 - Explanation texts</p>
 
@@ -16,7 +16,7 @@ p>- Canvas for drawing\n
 </ul>
 
 <div align="center">
-  ![Dumb Machine Character](https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20)
+ <img src="https://github.com/user-attachments/assets/51442bc2-ab22-453e-9fe3-4e7bf5cc9c20" alt="logo">
 </div>
 
 
