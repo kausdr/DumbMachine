@@ -1,3 +1,6 @@
+
+![Title](https://github.com/user-attachments/assets/afd2d73b-b1e6-41e1-a162-17a219038f3d)
+
 <h1>Welcome To Dumb Machine</h1>
 <p>Dumb Machine is a WWDC24 Winner game about learning concepts of programming.</p>
 
